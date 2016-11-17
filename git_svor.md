@@ -14,3 +14,7 @@
   	c) git status fer yfir skrárnar hjá báðum eða öllum aðilum og birtir það sem er öðruvísi eða github kannast ekki við.
   	d) git diff sýnir þér hvaða breytingar hafa átt sér stað á milli verkefna í aðeins meiri smáatriðum en git log.
   	e) git checkout skiptir um stöðu sem að notandinn er standur og fer með hann þar sem að hlutirnir byrjuðu.
+
+    3.  a) git diff er grunn skipunin en það þarf að slá eitthvað annað inn til að koma einhverju til skila vegna þess það er ekki nóg að sláinn þessa fyrirspurn
+    	b) git diff --staged sýnir allar breytingar sem að hafa verið gerðar og birtir working tree. Einnig er hægt að slá inn $ git diff --cached
+    	c) git diff commit1 commit2 sýnir notandanum hvað er öðruvísi á þessa beggja verkefna.
