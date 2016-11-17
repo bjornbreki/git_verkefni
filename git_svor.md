@@ -20,3 +20,7 @@
     	c) git diff commit1 commit2 sýnir notandanum hvað er öðruvísi á þessa beggja verkefna.
 
 4. e.version control er hvað er útgáfan gömul og hvaða commends virka og hverjar ekki.
+
+5. GIT er frekar létt forrit eða um það bil 32mb. Git er til fyrir Apple, Linux, Solaris og Windows. GIT er langt frá því að vera flókið í keyrslu, það er um það bil 10 skipanir allt í allt. GIT ei einnig með frábærar lausnir þegar að það kemur að því að nokkrir eru að edit'a sama hlutinn á sama tíma. Mér finnst það fáranlega flott hvernig það er birt með = merkjum og < > merkjum. Síðast en ekki síst þá er setur GitHub .'inn yfir i'ið með því að gef notandinum aðferðir til að edit'a eða búa til nýja hluti eins og möppur eða samsett verkefni með forritunu.
+
+6. Ég held að ég mun gera það í hvert skipti sem að ég mun taka við verkefni til að fá alltaf að sjá hvað er öðruvísi við sitt hvort verkefnið og fundið best leiðina til að blanda þeim saman.
