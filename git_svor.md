@@ -29,3 +29,5 @@ add
     a) Repository í GIT er fyrsta skrefið og það tekur við því sem að notandinn sló inn og færir það yfir til Working Directory.
     b) Working Directory skref númer tvö og tekur við frá Repository, les yfir verkefnið og atugar hvort að það sé einhver munur á verkefninum og endar á því að senda það yfir til Staging Area til að klára beiðnina sem notandinn sló inn.
     c) Staging area er síðasta skrefið og merkir við þær villur sem að eftir eru frá Working Directory og pakkar svo öllu saman og sendir það síðan að lokum yfir til Repository og bíður þar með eftir annari skipun frá notandanum og endurtekur þar með hringinn.
+
+8. Það er sniðugt að nota eitt branch fyrir hvert og eitt verkefni, svo að það sé hægt að sjá hvert og eitt verkefni inn á GitHub.
