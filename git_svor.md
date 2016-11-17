@@ -18,3 +18,5 @@
     3.  a) git diff er grunn skipunin en það þarf að slá eitthvað annað inn til að koma einhverju til skila vegna þess það er ekki nóg að sláinn þessa fyrirspurn
     	b) git diff --staged sýnir allar breytingar sem að hafa verið gerðar og birtir working tree. Einnig er hægt að slá inn $ git diff --cached
     	c) git diff commit1 commit2 sýnir notandanum hvað er öðruvísi á þessa beggja verkefna.
+
+4. e.version control er hvað er útgáfan gömul og hvaða commends virka og hverjar ekki.
